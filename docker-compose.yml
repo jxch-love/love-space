@@ -1,0 +1,6 @@
+services:
+  love-space:
+    image: jxch/love-space
+    ports:
+      - "9091:80"
+      
